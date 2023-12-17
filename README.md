@@ -40,7 +40,7 @@ cd Tmux2TelegramMonitor
 ```
 pip install -r requirements.txt
 ```
-**Configure your **Telegram bot token** and **chat ID** in the script:**
+**Configure your **Telegram bot token** and **chat ID** in the `send_to_telegram.py`:**
 ```
 bot = Bot(token='your_token')
 chat_id = '-your_chat_id'
