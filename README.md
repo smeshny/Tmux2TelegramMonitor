@@ -69,4 +69,3 @@ pane_id = "%0"
 ```
 ./tmux_to_telegram_loop.sh
 ```
-
