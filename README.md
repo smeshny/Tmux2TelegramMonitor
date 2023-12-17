@@ -49,7 +49,7 @@ chat_id = '-your_chat_id'
 **Start the tmux Process:**
 Open your terminal and start tmux by typing `tmux`.
 
-Launch the process or application you wish to monitor.
+Launch the process you wish to monitor.
 
 **Create a New tmux Window:**
 To create a new window in tmux, you can press `Ctrl+b+c`. This will create a new window within the same tmux session.
@@ -66,6 +66,10 @@ pane_id = "%0"
 ```
 
 **Start monitoring script:**
+```
+chmod +x tmux_to_telegram_loop.sh
+```
+
 ```
 ./tmux_to_telegram_loop.sh
 ```
