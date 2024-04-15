@@ -7,8 +7,6 @@ A real-time monitoring tool that tracks tmux session changes and sends alerts to
 - Instant alerts to a Telegram chat upon session changes.
 - Easy to set up and use in any server or development environment.
 
-## Example how it works
-![2023-12-17 16 03 53](https://github.com/smeshny/Tmux2TelegramMonitor/assets/14953852/302d2bfd-4768-4a80-b9a3-3d9017d9c459)
 
 ## Getting Started
 
